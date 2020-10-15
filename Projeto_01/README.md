@@ -4,10 +4,10 @@ Você foi contratado pela empresa XPTO para a função de analista de dados. Com
  
 1. Crie um gráfico de barras apresentando o resultado de cada item.
 Resultado:
-<img src="https://github.com/AlexcastroDev/projetos_r_universidade/Projeto_01/barplot.png" width="200px">
+<img src="https://github.com/AlexcastroDev/projetos_r_universidade/blob/main/Projeto_01/barplot.png?raw=true" width="200px">
 
 Código:
-<a href="https://github.com/AlexcastroDev/projetos_r_universidade/Projeto_01/barplot.r">Resultado</a>
+<a href="https://github.com/AlexcastroDev/projetos_r_universidade/blob/main/Projeto_01/barplot.r">Resultado</a>
 
 2. Liste os componentes da matriz dos dados.
 3. Liste o resultado da soma dessa matriz.
