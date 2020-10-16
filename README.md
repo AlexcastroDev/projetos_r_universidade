@@ -8,3 +8,7 @@ Você foi contratado pela empresa XPTO para a função de analista de dados. Com
 
 <br>
 <a href="https://github.com/AlexcastroDev/projetos_r_universidade/tree/main/Projeto_01"> ver resultado </a>
+
+<br>
+Nota:
+<img src="https://github.com/AlexcastroDev/projetos_r_universidade/blob/main/Projeto_01/resultado-projeto01.png?raw=true" >
