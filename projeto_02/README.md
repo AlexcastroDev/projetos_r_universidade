@@ -12,7 +12,7 @@ Pede-se que você prepare e apresente a visualização:
 
 <br>
 Resultado:
-<img src="https://github.com/AlexcastroDev/projetos_r_universidade/blob/main/projeto_02/boxplot.png?raw=true" width="200px">
+<img src="https://github.com/AlexcastroDev/projetos_r_universidade/blob/main/projeto_02/boxplot.png?raw=true" width="600px">
 <br>
 Código:
 <a href="https://github.com/AlexcastroDev/projetos_r_universidade/blob/main/Projeto_01/tarefa.r">Resultado</a>
