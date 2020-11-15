@@ -8,11 +8,18 @@ Ambos possuem 10 elementos cada, representados por 2 vetores.
 Pede-se que você prepare e apresente a visualização:
  
 1. Utilize a linguagem R para plotar X e Y em gráficos diferentes utilizando BOXPLOT.
+
+<br>
+Código:
+<a href="https://github.com/AlexcastroDev/projetos_r_universidade/blob/main/Projeto_01/tarefa_01.r">Resultado</a>
+
+
+
+
+
+
 2. Usando R, plote a comparação de X e Y no mesmo gráfico utilizando BOXPLOT.
 
 <br>
-Resultado:
-<img src="https://github.com/AlexcastroDev/projetos_r_universidade/blob/main/projeto_02/boxplot.png?raw=true" width="600px">
-<br>
 Código:
-<a href="https://github.com/AlexcastroDev/projetos_r_universidade/blob/main/Projeto_01/tarefa.r">Resultado</a>
+<a href="https://github.com/AlexcastroDev/projetos_r_universidade/blob/main/Projeto_01/tarefa_02.r">Resultado</a>
